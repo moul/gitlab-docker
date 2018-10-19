@@ -1,5 +1,7 @@
 # GitLab Docker Build Script
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/gitlab-docker.svg)](https://www.guardrails.io)
+
 This Dockerfile will create a new Docker container running GitLab 6.3 on Ubuntu 12.04.
 
 ## Installation
